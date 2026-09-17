@@ -10,8 +10,6 @@
 > **Course:** Modern Software Engineering (現代軟體工程)  
 > **Student:** 范權榮  
 > **Student ID:** 111210557  
-> **Repository:** [samdrcr/se-hw1-curl](https://github.com/samdrcr/se-hw1-curl)  
-> **Live Showcase:** [https://samdrcr.github.io/se-hw1-curl/](https://samdrcr.github.io/se-hw1-curl/)
 
 ---
 

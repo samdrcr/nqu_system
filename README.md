@@ -5,6 +5,16 @@
 [![Architecture](https://img.shields.io/badge/OOP-Inheritance%20%26%20Polymorphism-success.svg)](#object-oriented-architecture)
 [![License](https://img.shields.io/badge/license-Academic%20Evaluation%20Only-lightgrey.svg)](#)
 
+> **University:** National Quemoy University (NQU)  
+> **Department:** Computer Science and Information Engineering (CSIE)  
+> **Course:** Modern Software Engineering (現代軟體工程)  
+> **Student:** 范權榮  
+> **Student ID:** 111210557  
+> **Repository:** [samdrcr/se-hw1-curl](https://github.com/samdrcr/se-hw1-curl)  
+> **Live Showcase:** [https://samdrcr.github.io/se-hw1-curl/](https://samdrcr.github.io/se-hw1-curl/)
+
+---
+
 A modular, terminal-based academic management system modeling the core workflow of the National Quemoy University (NQU) Academic Portal. Built as a software engineering homework project (`習題 2`), this application demonstrates robust Object-Oriented Programming (OOP) design patterns, serialized binary data persistence via Python's native `pickle` module ("Big Pickle"), interactive terminal UI elements, and a dynamic student GPA and course evaluation engine.
 
 ---
